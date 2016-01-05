@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/library.dir/main.cpp.o CMakeFiles/library.dir/Menu.cpp.o CMakeFiles/library.dir/Mvc_book.cpp.o CMakeFiles/library.dir/Reader.cpp.o CMakeFiles/library.dir/Readerdata.cpp.o  -o library -rdynamic 
